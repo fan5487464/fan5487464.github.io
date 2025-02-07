@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fan5487464.github.io</id>
+    <title>单手贝塔</title>
+    <updated>2025-02-07T06:44:43.873Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fan5487464.github.io"/>
+    <link rel="self" href="https://fan5487464.github.io/atom.xml"/>
+    <subtitle>&lt;h1&gt;温故而知新</subtitle>
+    <logo>https://fan5487464.github.io/images/avatar.png</logo>
+    <icon>https://fan5487464.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 单手贝塔</rights>
+</feed>
